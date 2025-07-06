@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Contact() {
   return (
     <div className="min-h-screen flex flex-col items-center bg-white text-gray-900 dark:bg-black dark:text-white p-8">
@@ -12,7 +14,7 @@ export default function Contact() {
       <nav className="w-full max-w-4xl mx-auto py-2" aria-label="麵包屑導航">
         <ol className="flex items-center space-x-2 text-sm text-gray-600 dark:text-gray-400">
           <li>
-            <a href="/" className="hover:text-blue-600 dark:hover:text-blue-400">首頁</a>
+            <Link href="/" className="hover:text-blue-600 dark:hover:text-blue-400">首頁</Link>
           </li>
           <li className="text-gray-400">/</li>
           <li className="text-gray-900 dark:text-white" aria-current="page">聯絡我們</li>

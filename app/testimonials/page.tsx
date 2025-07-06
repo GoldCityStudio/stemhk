@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Testimonials() {
   return (
     <div className="min-h-screen flex flex-col items-center bg-white text-gray-900 dark:bg-black dark:text-white p-8">
@@ -12,7 +14,7 @@ export default function Testimonials() {
       <nav className="w-full max-w-4xl mx-auto py-2" aria-label="麵包屑導航">
         <ol className="flex items-center space-x-2 text-sm text-gray-600 dark:text-gray-400">
           <li>
-            <a href="/" className="hover:text-blue-600 dark:hover:text-blue-400">首頁</a>
+            <Link href="/" className="hover:text-blue-600 dark:hover:text-blue-400">首頁</Link>
           </li>
           <li className="text-gray-400">/</li>
           <li className="text-gray-900 dark:text-white" aria-current="page">客戶見證</li>
@@ -32,7 +34,7 @@ export default function Testimonials() {
               <h2 className="text-2xl font-semibold mb-2">香港國際學校</h2>
               <p className="text-gray-600 dark:text-gray-300 mb-4">STEAM課程整合項目</p>
               <blockquote className="text-lg italic mb-4 border-l-4 border-blue-500 pl-4">
-                "Babi Academy團隊幫助我們成功整合STEAM教育到我們的課程體系中。他們的專業知識和創新方法使我們的學生在科學、技術和創意方面都取得了顯著進步。學生們現在更積極參與學習，批判性思維能力也大幅提升。"
+                &ldquo;Babi Academy團隊幫助我們成功整合STEAM教育到我們的課程體系中。他們的專業知識和創新方法使我們的學生在科學、技術和創意方面都取得了顯著進步。學生們現在更積極參與學習，批判性思維能力也大幅提升。&rdquo;
               </blockquote>
               <div className="flex items-center gap-4">
                 <div>
@@ -119,7 +121,7 @@ export default function Testimonials() {
               <h2 className="text-2xl font-semibold mb-2">香港創意科技公司</h2>
               <p className="text-gray-600 dark:text-gray-300 mb-4">員工STEAM技能培訓項目</p>
               <blockquote className="text-lg italic mb-4 border-l-4 border-green-500 pl-4">
-                "Babi Academy為我們的研發團隊提供了卓越的STEAM培訓。他們的課程不僅提升了員工的技術技能，更重要的是培養了創新思維和問題解決能力。這直接影響了我們的產品開發效率和創新能力。"
+                &ldquo;Babi Academy為我們的研發團隊提供了卓越的STEAM培訓。他們的課程不僅提升了員工的技術技能，更重要的是培養了創新思維和問題解決能力。這直接影響了我們的產品開發效率和創新能力。&rdquo;
               </blockquote>
               <div className="flex items-center gap-4">
                 <div>
@@ -206,7 +208,7 @@ export default function Testimonials() {
               <h2 className="text-2xl font-semibold mb-2">香港教育中心</h2>
               <p className="text-gray-600 dark:text-gray-300 mb-4">STEAM教育中心建立項目</p>
               <blockquote className="text-lg italic mb-4 border-l-4 border-purple-500 pl-4">
-                "STEM創新幫助我們建立了一個完整的STEAM教育中心。從空間設計到課程開發，從設備採購到教師培訓，他們提供了全方位的專業服務。現在我們的中心已經成為香港STEAM教育的標杆。"
+                &ldquo;Babi Academy幫助我們建立了一個完整的STEAM教育中心。從空間設計到課程開發，從設備採購到教師培訓，他們提供了全方位的專業服務。現在我們的中心已經成為香港STEAM教育的標杆。&rdquo;
               </blockquote>
               <div className="flex items-center gap-4">
                 <div>
