@@ -200,7 +200,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: 't_v4vD0YodbPwWthCRzRVJAjVT-Zu4JqNcPvRJN4des',
     yandex: 'your-yandex-verification-code',
   },
   alternates: {
@@ -236,7 +236,7 @@ export const metadata: Metadata = {
   category: "教育",
   classification: "STEAM教育服務",
   other: {
-    "google-site-verification": "your-google-verification-code",
+    "google-site-verification": "t_v4vD0YodbPwWthCRzRVJAjVT-Zu4JqNcPvRJN4des",
     "msvalidate.01": "your-bing-verification-code",
   },
 };
