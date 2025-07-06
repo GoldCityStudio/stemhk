@@ -249,6 +249,7 @@ export default function RootLayout({
   return (
     <html lang="zh-HK">
       <head>
+        <meta name="google-site-verification" content="t_v4vD0YodbPwWthCRzRVJAjVT-Zu4JqNcPvRJN4des" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#3B82F6" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
