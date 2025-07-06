@@ -4,7 +4,7 @@ export default function About() {
       <header className="w-full max-w-4xl mx-auto py-8">
         <h1 className="text-4xl font-bold mb-4 text-center">關於我們</h1>
         <p className="text-lg text-center max-w-2xl mx-auto">
-          我們是香港領先的STEAM教育創新公司，致力於通過科學、技術、工程、藝術和數學的整合教育，培養下一代的創新思維者和問題解決者。
+          我們是香港領先的STEAM教育機構Babi Academy，致力於通過科學、技術、工程、藝術和數學的整合教育，培養下一代的創新思維者和問題解決者。
         </p>
       </header>
       
@@ -53,7 +53,7 @@ export default function About() {
             </div>
             <h3 className="text-xl font-semibold mb-4">我們的願景</h3>
             <p className="text-gray-700 dark:text-gray-300">
-              成為香港STEAM教育的領導者，推動教育創新，培養具有全球競爭力的未來人才。
+              成為香港STEAM教育的領導者Babi Academy，推動教育創新，培養具有全球競爭力的未來人才。
             </p>
           </div>
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg">
@@ -152,11 +152,11 @@ export default function About() {
               <p className="text-gray-600 dark:text-gray-400 text-sm">推出數位化STEAM平台</p>
             </div>
             <div className="text-center">
-              <div className="w-16 h-16 bg-pink-500 rounded-full flex items-center justify-center text-white text-xl font-bold mx-auto mb-4">
-                2024
-              </div>
-              <h3 className="text-lg font-semibold mb-2">行業領先</h3>
-              <p className="text-gray-600 dark:text-gray-400 text-sm">成為香港STEAM教育領導者</p>
+                          <div className="w-16 h-16 bg-pink-500 rounded-full flex items-center justify-center text-white text-xl font-bold mx-auto mb-4">
+              2024
+            </div>
+            <h3 className="text-lg font-semibold mb-2">行業領先</h3>
+            <p className="text-gray-600 dark:text-gray-400 text-sm">成為香港STEAM教育領導者Babi Academy</p>
             </div>
           </div>
         </section>

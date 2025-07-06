@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "STEM創新 | 科學、技術、工程、藝術與數學解決方案",
-  description: "專業的STEAM公司，提供科學、技術、工程、藝術和數學創新解決方案。通過專家STEAM服務賦能教育、商業和創造力。",
+  title: "Babi Academy | 科學、技術、工程、藝術與數學解決方案",
+  description: "專業的STEAM教育機構，提供科學、技術、工程、藝術和數學創新解決方案。通過專家STEAM服務賦能教育、商業和創造力。",
   keywords: [
     "STEAM",
     "STEM",
@@ -305,10 +305,10 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "EducationalOrganization",
-              "name": "STEM創新",
-              "description": "專業的STEAM公司，提供科學、技術、工程、藝術和數學創新解決方案",
-              "url": "https://www.stem-innovations.com",
-              "logo": "https://www.stem-innovations.com/logo.png",
+              "name": "Babi Academy",
+              "description": "專業的STEAM教育機構，提供科學、技術、工程、藝術和數學創新解決方案",
+              "url": "https://www.babi-academy.com",
+              "logo": "https://www.babi-academy.com/logo.png",
               "sameAs": [
                 "https://www.facebook.com/steminnovations",
                 "https://www.linkedin.com/company/stem-innovations",
@@ -319,7 +319,7 @@ export default function RootLayout({
                 "@type": "ContactPoint",
                 "telephone": "+852-1234-5678",
                 "contactType": "customer service",
-                "email": "info@stem-innovations.com",
+                "email": "info@babi-academy.com",
                 "availableLanguage": "Traditional Chinese"
               },
               "address": {
@@ -382,7 +382,7 @@ export default function RootLayout({
                     "@type": "Person",
                     "name": "張老師"
                   },
-                  "reviewBody": "STEM創新的STEAM課程設計非常專業，學生學習效果顯著提升。"
+                  "reviewBody": "Babi Academy的STEAM課程設計非常專業，學生學習效果顯著提升。"
                 }
               ]
             })
@@ -409,10 +409,10 @@ export default function RootLayout({
               {/* Logo */}
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold text-xl mr-3">
-                  S
+                  B
                 </div>
                 <div>
-                  <h1 className="text-xl font-bold text-gray-900 dark:text-white">STEM創新</h1>
+                  <h1 className="text-xl font-bold text-gray-900 dark:text-white">Babi Academy</h1>
                   <p className="text-xs text-gray-600 dark:text-gray-400">STEAM教育專家</p>
                 </div>
               </div>
@@ -463,15 +463,15 @@ export default function RootLayout({
               <div className="col-span-1 md:col-span-2">
                 <div className="flex items-center mb-4">
                   <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold text-xl mr-3">
-                    S
+                    B
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">STEM創新</h3>
+                    <h3 className="text-xl font-bold">Babi Academy</h3>
                     <p className="text-gray-400 text-sm">STEAM教育專家</p>
                   </div>
                 </div>
                 <p className="text-gray-400 mb-4 max-w-md">
-                  香港領先的STEAM教育創新公司，致力於通過科學、技術、工程、藝術和數學的整合教育，培養下一代的創新思維者和問題解決者。
+                  香港領先的STEAM教育機構Babi Academy，致力於通過科學、技術、工程、藝術和數學的整合教育，培養下一代的創新思維者和問題解決者。
                 </p>
                 <div className="flex space-x-4">
                   <a href="#" className="text-gray-400 hover:text-white transition">

@@ -66,8 +66,8 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold mb-1">電子郵件</h3>
                   <p className="text-gray-600 dark:text-gray-400">
-                    info@stem-innovations.com<br />
-                    service@stem-innovations.com
+                    info@babi-academy.com<br />
+                    service@babi-academy.com
                   </p>
                 </div>
               </div>

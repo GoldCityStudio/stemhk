@@ -8,10 +8,10 @@ export default function Home() {
         <div className="absolute inset-0 bg-black opacity-40"></div>
         <div className="relative max-w-4xl mx-auto px-8 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            STEM創新
+            Babi Academy
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-            香港領先的STEAM教育解決方案提供商，通過科學、技術、工程、藝術和數學的整合教育，培養下一代的創新思維者。
+            香港領先的STEAM教育機構，通過科學、技術、工程、藝術和數學的整合教育，培養下一代的創新思維者。
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
@@ -34,9 +34,9 @@ export default function Home() {
         {/* About Section with Image */}
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 className="text-3xl font-bold mb-6">關於STEM創新</h2>
+            <h2 className="text-3xl font-bold mb-6">關於Babi Academy</h2>
             <p className="text-lg leading-relaxed mb-6">
-              我們是香港專業的STEAM教育公司，致力於為學校、企業和個人提供創新的教育解決方案。通過整合科學、技術、工程、藝術和數學，我們幫助學習者培養批判性思維、創意能力和問題解決技能。
+              我們是香港專業的STEAM教育機構，致力於為學校、企業和個人提供創新的教育解決方案。通過整合科學、技術、工程、藝術和數學，我們幫助學習者培養批判性思維、創意能力和問題解決技能。
             </p>
             <div className="grid grid-cols-2 gap-4">
               <div className="text-center p-4 bg-blue-50 dark:bg-blue-900 rounded-lg">

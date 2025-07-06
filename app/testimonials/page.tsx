@@ -32,7 +32,7 @@ export default function Testimonials() {
               <h2 className="text-2xl font-semibold mb-2">香港國際學校</h2>
               <p className="text-gray-600 dark:text-gray-300 mb-4">STEAM課程整合項目</p>
               <blockquote className="text-lg italic mb-4 border-l-4 border-blue-500 pl-4">
-                "STEM創新團隊幫助我們成功整合STEAM教育到我們的課程體系中。他們的專業知識和創新方法使我們的學生在科學、技術和創意方面都取得了顯著進步。學生們現在更積極參與學習，批判性思維能力也大幅提升。"
+                "Babi Academy團隊幫助我們成功整合STEAM教育到我們的課程體系中。他們的專業知識和創新方法使我們的學生在科學、技術和創意方面都取得了顯著進步。學生們現在更積極參與學習，批判性思維能力也大幅提升。"
               </blockquote>
               <div className="flex items-center gap-4">
                 <div>
@@ -119,7 +119,7 @@ export default function Testimonials() {
               <h2 className="text-2xl font-semibold mb-2">香港創意科技公司</h2>
               <p className="text-gray-600 dark:text-gray-300 mb-4">員工STEAM技能培訓項目</p>
               <blockquote className="text-lg italic mb-4 border-l-4 border-green-500 pl-4">
-                "STEM創新為我們的研發團隊提供了卓越的STEAM培訓。他們的課程不僅提升了員工的技術技能，更重要的是培養了創新思維和問題解決能力。這直接影響了我們的產品開發效率和創新能力。"
+                "Babi Academy為我們的研發團隊提供了卓越的STEAM培訓。他們的課程不僅提升了員工的技術技能，更重要的是培養了創新思維和問題解決能力。這直接影響了我們的產品開發效率和創新能力。"
               </blockquote>
               <div className="flex items-center gap-4">
                 <div>

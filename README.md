@@ -1,8 +1,8 @@
-# STEM創新 - STEAM教育網站
+# Babi Academy - STEAM教育網站
 
 ## 項目概述
 
-這是一個專業的STEAM教育公司網站，專為香港市場設計，提供科學、技術、工程、藝術和數學的整合教育解決方案。網站採用現代化的設計和SEO最佳實踐，針對香港本地市場進行優化。
+這是一個專業的STEAM教育機構網站，專為香港市場設計，提供科學、技術、工程、藝術和數學的整合教育解決方案。網站採用現代化的設計和SEO最佳實踐，針對香港本地市場進行優化。
 
 ## 🌟 主要功能
 
@@ -226,9 +226,9 @@ module.exports = {
 如有任何問題或建議，請透過以下方式聯絡：
 
 - **WhatsApp**: +852 7107 3695
-- **電子郵件**: info@stem-innovations.com
-- **網站**: [https://stem-innovations.com](https://stem-innovations.com)
+- **電子郵件**: info@babi-academy.com
+- **網站**: [https://babi-academy.com](https://babi-academy.com)
 
 ---
 
-**STEM創新** - 培養下一代的創新思維者 🚀
+**Babi Academy** - 培養下一代的創新思維者 🚀
